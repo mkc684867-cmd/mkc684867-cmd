@@ -45,4 +45,4 @@
 ---
 
 ⭐️ Fun GIFs & Motivation  
-![Coding GIF](https://media.tenor.com/2uyENR60SpsAAAAC/coding.gif)
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600">
