@@ -31,7 +31,8 @@
 ---
 
 ## 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkc684867-cmd&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkc684867-cmd&theme=radical&hide_border=true)
+
 
 ---
 
@@ -44,4 +45,4 @@
 ---
 
 ⭐️ Fun GIFs & Motivation  
-![Coding GIF](https://tenor.com/view/hacker-reality-colored-keyboard-hacking-typing-gif-17405107)
+![Coding GIF](https://media.tenor.com/2uyENR60SpsAAAAC/coding.gif)
