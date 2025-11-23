@@ -4,9 +4,9 @@
 
 ## 💻 About Me
 - 🎓 Student at Itahari International College  
-- 🌱 Learning Full Stack Development (React, Node.js)  
+- 🌱 Learning Full Stack Development & Embedded Systems  
 - 🚀 Passionate about building projects & contributing to open-source  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/manoj-kc-2636a239a/) | [Email](katwalmanoj67@gmail.com)
 
 ---
 
@@ -16,36 +16,32 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🚀 Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Gym Management System | Java Swing OOP project with GUI & member management | [Repo](https://github.com/yourusername/GymManagementSystem) |
-| WeCare Inventory System | Python project handling sales, stock & invoices | [Repo](https://github.com/yourusername/WeCareInventory) |
-| Travel Agency Dashboard | React + localStorage Admin Dashboard for trips & users | [Repo](https://github.com/yourusername/TravelDashboard) |
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkc684867-cmd&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkc684867-cmd&layout=compact&theme=radical)
 
 ---
 
 ## 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkc684867-cmd&theme=radical)
 
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kc-2636a239a/)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](katwalmanoj67@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/manojkatwal67)
+
 
 ---
 
 ⭐️ Fun GIFs & Motivation  
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Coding GIF](https://tenor.com/view/hacker-reality-colored-keyboard-hacking-typing-gif-17405107)
